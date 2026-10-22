@@ -23,12 +23,12 @@ const artworks = [
         title: "Gesture",
         description: "The tension of gesture—a hand mimicking form and force.",
         imageUrl: "/artwork/gun.jpg",
-    },
-    {
-        title: "Renewal",
-        description: "A sketch for a friend—soft light, clean lines, and new beginnings.",
-        imageUrl: "/artwork/renew.jpg",
-    },
+    // },
+    // {
+    //     title: "Renewal",
+    //     description: "A sketch for a friend—soft light, clean lines, and new beginnings.",
+    //     imageUrl: "/artwork/renew.jpg",
+    // },
     // {
     //     title: "Flesh and Bone",
     //     description: "More than a skull—memento mori in black and white.",
