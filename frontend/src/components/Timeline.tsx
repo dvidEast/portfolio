@@ -5,8 +5,8 @@ export default function Timeline() {
     const timeline = [
         {
             title: "BSc MATHEMATICS, MINOR DATA SCIENCE",
-            subtitle: "University of British Columbia",
-            date: "Sept 2021 – Now",
+            subtitle: "THE UNIVERSITY OF BRITISH COLUMBIA",
+            date: "Sept 2021 – Present",
             bulletColor: "bg-yellow-400",
             details: [
                 "Science Undergraduate Society (SUS) ->",
@@ -18,15 +18,18 @@ export default function Timeline() {
             ],
         },
         {
-            title: "SOFTWARE DEVELOPER CO-OP",
+            title: "JUNIOR SOFTWARE DEVELOPER (INTERNSHIP)",
             subtitle: "CLIO",
-            date: "May 2026 – Now",
-            bulletColor: "bg-sky-300",
+            date: "May 2027 – Now",
+            bulletColor: "bg-gray-50",
             details: [
-            ],
+                "Developed and maintained backend payment and billing systems using Ruby on Rails and MySQL, implementing business logic, API integrations, and production fixes.",
+                "Helped ship auto-charging and trust-account auto-charging features in Clio’s payments platform.",
+                "Developed AI-powered billing workflows in Clio Flow with Python, refining LLM prompts, context management, and integrations with internal systems to improve workflow reliability and predictability."
+            ]
         },
         {
-            title: "SECURITY SOFTWARE ENGINEER CO-OP",
+            title: "SECURITY SOFTWARE ENGINEER (INTERNSHIP)",
             subtitle: "SAP",
             date: "Sept 2025 – April 2026",
             bulletColor: "bg-blue-400",
@@ -41,37 +44,14 @@ export default function Timeline() {
             ],
         },
         {
-            title: "SOFTWARE DEVELOPMENT LEAD",
-            subtitle: "UBC Science Undergraduate Society",
-            date: "Jun 2024 – Now",
+            title: "SOFTWARE DEVELOPMENT LEAD (VOLUNTEER)",
+            subtitle: "UBC SCIENCE UNDERGRADUATE SOCIETY",
+            date: "Jun 2024 – April 2026",
             bulletColor: "bg-purple-400",
             details: [
                 "Managed a team of 10 to design, build, and maintain the organization’s website using React (Next.js), TypeScript, and Figma, demonstrating strong team collaboration, technical proficiency, and leadership.",
                 "Overhauled website to better deliver resources for 16,000+ science students, resulting in a 30% increase in user engagement.",
                 "Developed the team’s Git workflow and CI/CD pipelines in Github Actions, ensured code reviews for quality, and maintained documentation for current and future development."
-            ],
-        },
-        {
-            title: "SOFTWARE DEVELOPER",
-            subtitle: "Trickster's Hideout",
-            date: "Mar 2025 - Apr 2025",
-            bulletColor: "bg-red-400",
-            details: [
-                "Contracted via Riipen to build a full-stack financial dashboard integrating sales data from Square, WordPress Events, and Eventbrite into a unified interface.",
-                "Utilized Postman to test APIs and documented necessary data transformations for integration.",
-                "Developed the application using React (Next.js) and RESTful APIs, implementing complex data transformation and aggregation logic in TypeScript to normalize inconsistent third-party data into structured, queryable formats.",
-                "Enhanced cross-platform user workflow by reducing navigation steps by over 70%, improving sales data accessibility through centralized dashboard components built with React Hooks and Tailwind CSS."
-            ],
-        },
-        {
-            title: "SOFTWARE DEVELOPER",
-            subtitle: "DraapeAI",
-            date: "May 2024 – Aug 2024",
-            bulletColor: "bg-pink-400",
-            details: [
-                "Developed a mobile app for a body measurement prediction system using React Native to capture user images and display body measurement data through a clean and accessible UI.",
-                "Designed and implemented a responsive web application using React and TypeScript that integrated with the company’s ML pipeline, allowing users to generate and preview clothing patterns in real-time.",
-                "Reduced image upload and measurement processing time by 6.4 seconds over the course of my tenure, resulting in a smoother and faster user experience."
             ],
         }
     ];

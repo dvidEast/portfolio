@@ -7,7 +7,7 @@ export default function TechnicalSkills() {
         {
             type: "LANGUAGES",
             list: [
-                "Python", "JavaScript", "Typescript", "Java", "SQL", "R", "ReactJS", "HTML", "CSS"
+                "Python", "Ruby", "JavaScript", "TypeScript", "Java", "SQL", "R", "ReactJS", "HTML", "CSS"
             ]
         },
         {
@@ -25,13 +25,13 @@ export default function TechnicalSkills() {
         {
             type: "DEV TOOLS",
             list: [
-                "Git", "GitHub", "Docker", "AWS", "Jupyter", "Postman", "Jenkins"
+                "Git", "GitHub", "Docker", "AWS", "Jupyter", "Postman", "Jenkins", "Claude Code", "Deterministic LLM Programming"
             ]
         },
         {
             type: "FRAMEWORKS / LIBRARIES",
             list: [
-                "Pandas", "NumPy", "Matplotlib", "Tensorflow", "Scikit-learn", "NodeJS"
+                "Ruby on Rails", "Pandas", "NumPy", "Matplotlib", "Tensorflow", "Scikit-learn", "NodeJS"
             ]
         }
     ]

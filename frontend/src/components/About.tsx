@@ -40,19 +40,27 @@ export default function About() {
             >
                 <div className="max-w-5xl flex flex-col gap-y-7">
                     <div className="px-6">
-                        Hi, I&apos;m David 👋 
+                        Hi, I&apos;m David 👋
                     </div>
 
                     <div className="px-6">
-                        I&apos;m currently <span className='text-[#38ad8f]'>pursuing software engineering roles</span> to build a strong technical foundation and better understand how great products are built from the ground up.
+                        I&apos;m currently working as a <span className='text-[#38ad8f]'>software developer at Clio</span> while finishing my Mathematics and Data Science degree at UBC.
                     </div>
 
                     <div className="px-6">
-                        My long-term goal is to <span className='text-[#0097ff]'>move into software or product management</span>, where I can lead teams in building impactful solutions at scale.
+                        Right now, I&apos;m focused on growing as an engineer, learning from the people around me, and getting better at building things from the ground up.
                     </div>
 
                     <div className="px-6">
-                        Besides coding I spend my time on anything <span className='text-[#ffb969]'>music or <a className="underline" href="https://vsco.co/dvidlimm/gallery#google_vignette" target="_blank" rel="noopener noreferrer" aria-label="Vsco">art</a>, going to the gym, or cooking!</span>
+                        Long term, I&apos;d love to <span className='text-[#0097ff]'>build something of my own and lead a team</span> tackling problems I genuinely care about.
+                    </div>
+
+                    <div className="px-6">
+                        My experience spans payments engineering, application security, and developer automation.
+                    </div>
+
+                    <div className="px-6">
+                        Outside of work, I&apos;m usually listening to <span className='text-[#ffb969]'>music, at the gym, or trying something new in the kitchen!</span>
                     </div>
                 </div>
             </section>

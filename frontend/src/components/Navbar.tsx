@@ -23,9 +23,7 @@ export default function Navbar() {
 
             <div className={'flex flex-row items-center gap-4'}>
                 {/* <Link href='art'>ART</Link> */}
-                {/* <a href="https://vsco.co/dvidlimm/gallery#google_vignette" target="_blank" rel="noopener noreferrer" aria-label="Vsco">ART</a> */}
                 <Link href="/art">ART</Link>
-                <a target="_blank" href="https://drive.google.com/drive/folders/1xjqC2a8Qb7t931TGmHaiyF_ox69FhAxV?usp=sharing">RESUME</a>
             </div>
         </nav>
     )
