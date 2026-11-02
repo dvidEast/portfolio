@@ -125,7 +125,7 @@ export default function Projects() {
     ];
 
     return(
-        <main>
+        <main className="overflow-x-hidden">
             <Border sectionTitle="HACKATHONS" textOnLeft={false} />
 
             <ProjectList projects={hackathons} animationDirection="left"/>
