@@ -20,7 +20,7 @@ export default function Timeline() {
         {
             title: "JUNIOR SOFTWARE DEVELOPER (INTERNSHIP)",
             subtitle: "CLIO",
-            date: "May 2027 – Now",
+            date: "May 2026 – Now",
             bulletColor: "bg-gray-50",
             details: [
                 "Developed and maintained backend payment and billing systems using Ruby on Rails and MySQL, implementing business logic, API integrations, and production fixes.",
